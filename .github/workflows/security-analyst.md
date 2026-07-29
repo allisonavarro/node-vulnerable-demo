@@ -10,6 +10,8 @@ permissions:
   issues: read
   copilot-requests: write
 
+engine: copilot
+model: gpt-5
 network: defaults
 
 tools:
