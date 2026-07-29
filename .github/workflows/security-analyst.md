@@ -11,7 +11,7 @@ permissions:
   copilot-requests: write
 
 engine: copilot
-model: gpt-5
+model: auto
 network: defaults
 
 tools:
