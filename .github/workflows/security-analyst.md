@@ -1,5 +1,4 @@
 ---
-GH_AW_INFO_MODEL: ${{ vars.GH_AW_MODEL_AGENT_COPILOT || vars.GH_AW_DEFAULT_MODEL_COPILOT || 'gpt-4o-mini' }}
 on:
   workflow_dispatch:
   pull_request:
