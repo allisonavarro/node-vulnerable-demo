@@ -10,7 +10,7 @@ permissions:
   issues: read
 
 engine: copilot
-model: auto
+model: claude-sonnet-4.5
 network: defaults
 
 tools:
