@@ -8,7 +8,6 @@ permissions:
   contents: read
   pull-requests: read
   issues: read
-  copilot-requests: write
 
 engine: copilot
 model: auto
